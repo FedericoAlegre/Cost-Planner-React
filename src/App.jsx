@@ -4,7 +4,7 @@ import ExpensesList from './components/ExpensesList'
 import Modal from './components/Modal'
 import { generateId } from './helpers'
 import IconNewExpense from './img/nuevo-gasto.svg'
-import Filter from './components/filter'
+import Filter from './components/Filter'
 
 
 
