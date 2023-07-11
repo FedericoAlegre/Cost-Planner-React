@@ -7,7 +7,7 @@ import HouseIcon from "../img/icono_house.svg"
 import SavingsIcon from "../img/icono_savings.svg"
 import PleasureIcon from "../img/icono_pleasure.svg"
 import HealthIcon from "../img/icono_health.svg"
-import SubsIcon from "../img/icono_subscription.svg"
+import SubsIcon from "../img/icono_subscriptions.svg"
 
 const Icons = {
     savings: SavingsIcon,
